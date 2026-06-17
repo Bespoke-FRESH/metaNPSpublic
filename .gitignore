@@ -1,0 +1,9 @@
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+.Rapp.history
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
